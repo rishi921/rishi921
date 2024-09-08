@@ -76,5 +76,6 @@ https://github.com/rishi921/TextUtils-React2
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rishikeshsanjaysharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishikesh Sharma" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/rishikeshsharmaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imrishi_21" height="30" width="40" /></a>
 
